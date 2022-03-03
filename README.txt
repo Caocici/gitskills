@@ -1,1 +1,1 @@
-git add README.txt
+git is free software
